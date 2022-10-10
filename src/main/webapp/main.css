@@ -1,0 +1,21 @@
+@charset "UTF-8";
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    border-collapse: collapse;
+}
+
+.main_bg {
+    background-image:url("pic/main.jpg");
+    background-size: cover;
+    height: 500px;   
+
+}
+.bgtxt {
+    color:black;
+    padding: 40px;
+    text-align: center;
+}

@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/*헤더 시작*/
+.header{
+    display: flex;
+    /*width: 100%;*/
+    padding: 0px 50px;
+}
+a{
+    color: white;
+}
+
+.nav {    
+    display: flex;
+    flex-grow: 0;
+}
+
+.nav > li {   
+    margin: 10px;
+    padding: 15px 0px;
+    font-size: 20px;
+}
+
+.emt {
+    display: flex;
+    flex-grow:1 ;
+}
+/*회원*/
+.user {
+    display: flex;
+    margin: 25px;
+    flex-grow: 0;
+    background-color: blueviolet;
+}
+.idtext{
+    margin: 5px;
+    background-color: green;
+}
+
+#name {
+    width: 100px;
+    height: 25px;
+    margin: 5px;
+}
+/*헤더 끝*/
