@@ -19,3 +19,28 @@
     padding: 40px;
     text-align: center;
 }
+
+.story {
+	padding:40px;
+}
+
+.subtitle {
+	text-align:center;
+	font-size:40px;
+}
+
+.box1 {
+	display:flex;
+	margin:20px;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+
+.info1{
+	padding: 40px;
+}
+
+.skill{
+	background-color:green;
+}
